@@ -18,7 +18,7 @@
           </li>
           <li class="nav-item">
             <RouterLink class="nav-link" to="/about">Sobre</RouterLink>
-          </li>
+          </li> 
         </ul>
       </div>
     </div>

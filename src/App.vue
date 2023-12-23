@@ -17,7 +17,7 @@
             <RouterLink class="nav-link" aria-current="page" to="/">Home</RouterLink>
           </li>
           <li class="nav-item">
-            <RouterLink class="nav-link" to="/about">About</RouterLink>
+            <RouterLink class="nav-link" to="/about">Sobre</RouterLink>
           </li>
         </ul>
       </div>

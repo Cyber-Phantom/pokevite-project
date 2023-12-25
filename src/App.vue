@@ -31,7 +31,7 @@
   </div>
 
   <footer class="bg-primary text-light">
-    <div> Design in {{ new Date().getFullYear() }}</div>
+    <div> Design in {{ new Date().getFullYear() }} by Ely</div>
   </footer>
 </template>
 
